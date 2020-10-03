@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/Environment/Hierarchy/EntityFrameworkOptions/IsAlreadyNotifiedAboutEntityFramework/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=949eed36_002D62cc_002D4586_002Da470_002D422cd865e44b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Add_WhenCall_SumOfArguments" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7B529855-1297-438F-B6DF-D977DE960396::.NETFramework,Version=v4.6.1::TestNinja.UnitTest.MathTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7B529855-1297-438F-B6DF-D977DE960396::.NETFramework,Version=v4.6.1::TestNinja.UnitTest.HtmlFormatterTests.FormatAsBold_WhenCall_ReturnStrongString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7B529855-1297-438F-B6DF-D977DE960396::.NETFramework,Version=v4.6.1::TestNinja.UnitTest.ErrorLoggerTests.Log_WhenSendErrorString_ExpectedLastErrorPropertIsNotEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7B529855-1297-438F-B6DF-D977DE960396::.NETFramework,Version=v4.6.1::TestNinja.UnitTest.ErrorLoggerTests.Log_WhenSendEmptyParameter_ThrowArgumentNullException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7B529855-1297-438F-B6DF-D977DE960396::.NETFramework,Version=v4.6.1::TestNinja.UnitTest.VideoServiceTests.GetUnprocessedVideosAsCsv_WhenCall_ReturnListUnprocessedVideos&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7B529855-1297-438F-B6DF-D977DE960396::.NETFramework,Version=v4.6.1::TestNinja.UnitTest.VideoServiceTests.ReadVideoTitle_WhenSetPathIsNull_ReturnErrorParsing&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7B529855-1297-438F-B6DF-D977DE960396::.NETFramework,Version=v4.6.1::TestNinja.UnitTest.VideoServiceTests.ReadVideoTitle_WhenCall_ReturnVideoTitle&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7B529855-1297-438F-B6DF-D977DE960396::.NETFramework,Version=v4.6.1::TestNinja.UnitTest.VideoServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

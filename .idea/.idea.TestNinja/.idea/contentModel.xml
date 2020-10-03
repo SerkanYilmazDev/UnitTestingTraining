@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Arge\UnitTesting\source-code-starter+(1)\source-code-starter\TestNinja" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TestNinja" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Fundamentals" t="Include">
+          <e p="DemeritPointsCalculator.cs" t="Include" />
+          <e p="ErrorLogger.cs" t="Include" />
+          <e p="FizzBuzz.cs" t="Include" />
+          <e p="HtmlFormatter.cs" t="Include" />
+          <e p="Math.cs" t="Include" />
+          <e p="Reservation.cs" t="Include" />
+        </e>
+        <e p="Mocking" t="Include">
+          <e p="FileReader.cs" t="Include" />
+          <e p="VideoRepository.cs" t="Include" />
+          <e p="VideoService.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="TestNinja.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="TestNinja.sln" t="IncludeFlat" />
+      <e p="TestNinja.UnitTest" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ErrorLoggerTests.cs" t="Include" />
+        <e p="HtmlFormatterTests.cs" t="Include" />
+        <e p="MathTests.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="TestNinja.UnitTest.csproj" t="IncludeRecursive" />
+        <e p="VideoServiceTests.cs" t="Include" />
+      </e>
+    </e>
+    <e p="C:\Users\serkan.yilmaz1\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\serkan.yilmaz1\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_TestNinja.709618767.00" t="ExcludeRecursive" />
+  </component>
+  <component name="RiderRiderContentModelStore">
+    <excludedPaths />
+  </component>
+</project>
